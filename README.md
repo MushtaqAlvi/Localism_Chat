@@ -21,3 +21,33 @@ Note: Java JVM path should be in environment variable .
 The system command (msg) in Windows OS is used to send anonymous Pop BOx containig msg in it over LAN to connected machines.
 ###### Demo Command:
 ##### msg /SERVER:127.0.0.1 * "I am message" 
+
+# Can I use it over WAN? (Over Wide Area Network aka Global Internet)
+##### Yes . Just reroute the LAN trafic to WAN (Use NGROK or anyother alternative routing service.)
+##### Ngrok is free dude.
+[Go To Ngrok official WebSite](https://ngrok.com/)
+[How to SetUP NGROK ? Read DOC](https://ngrok.com/docs)
+
+
+# Home
+<img src="https://github.com/MushtaqAlvi/Localism_Chat/blob/main/screenshots/home.png"
+     alt="Localism Main Screen"
+     style="float: left; margin-right: 10px;" />
+     
+# Start as a Server over localhost
+##### Just click the server button to start the server
+### Other Clients must use Server's machine's IP to connect in chatroom
+<img src="https://github.com/MushtaqAlvi/Localism_Chat/blob/main/screenshots/server.png"
+     alt="Localism Main Screen"
+     style="float: left; margin-right: 10px;" />
+# Joined Chat Room
+##### Must Set Server's IP first . Then Click Join.
+<img src="https://github.com/MushtaqAlvi/Localism_Chat/blob/main/screenshots/joined.png"
+     alt="Localism Main Screen"
+     style="float: left; margin-right: 10px;" />
+# AboutUS
+<img src="https://github.com/MushtaqAlvi/Localism_Chat/blob/main/screenshots/localism_aboutus_small.png"
+     alt="Localism Main Screen"
+     style="float: left; margin-right: 10px;" />
+     
+     
