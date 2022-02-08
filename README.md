@@ -17,3 +17,7 @@ Note: Java JVM path should be in environment variable .
 ! A machine must be server to handle all the clients joined over same LAN (Local Area Network) to that specific server (Port 6666).
 
 ### Why you said prank ?
+
+The system command (msg) in Windows OS is used to send anonymous Pop BOx containig msg in it over LAN to connected machines.
+###### Demo Command:
+##### msg /SERVER:127.0.0.1 * "I am message" 
