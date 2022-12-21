@@ -50,13 +50,5 @@ The system command (msg) in Windows OS is used to send anonymous Pop BOx contain
 <img src="https://github.com/MushtaqAlvi/Localism_Chat/blob/main/screenshots/joined.png"
      alt="Localism Joined Chat"
      style="float: left; margin-right: 10px;" />
-# AboutUS
-<img src="https://github.com/MushtaqAlvi/Localism_Chat/blob/main/screenshots/localism_aboutus_small.png"
-     alt="Localism AboutUS"
-     style="float: left; margin-right: 10px;" />
-  
- <img src="https://github.com/MushtaqAlvi/Localism_Chat/blob/main/screenshots/a.jpeg"
-      alt="Mushtaq Alvi"
-     style="float: left; margin-right: 10px;" />
      
      
